@@ -1,3 +1,3 @@
 # Operating-Systems
-Some C language code and
+C language code and
 Operating System Concepts
